@@ -1,8 +1,8 @@
 ---
 title: Alpenbrevet 2022
 date: 2022-09-03
-categories: [hobby, cycling]
-tags: [alpenbrevet, ticino]
+categories: [hobby]
+tags: [cycling]
 ---
 
 What a ride!
