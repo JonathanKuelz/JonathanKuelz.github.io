@@ -6,7 +6,6 @@ tags: [politics]
 ---
 
 Info: Dieser Artikel ist [auch auf medium verfügbar](https://medium.com/p/389ea4b414de) und wurde dort zuerst veröffentlicht.
-Update 24.11: Die Bundestagswahl hat zu einer Ampelkoalition zwischen SPD, Grünen und FDP geführt. Am Ende dieses Artikels ist nun auch eine Analyse zum daraus entstandenen Koalitionsvertrag.
 
 ### Nicht immer ist wichtig, was man sagt, stets jedoch, wie man es sagt
 
