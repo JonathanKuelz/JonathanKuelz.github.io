@@ -13,22 +13,24 @@ My role as a supervisor is to support you, to help you with your research, and t
 Other than in a lecture, you have to at least partially define the scope of your project yourself.
 To help me understand the progress you have made, I will ask you to prepare our meetings in a standardized way (see below).
 
-## Research Proposal
-Before we start working together, I would like you to write a research proposal.
-This proposal should summarize:
+## Exposé
+Before we start working together, I would like you to write an exposé about your thesis.
+This exposé should summarize:
 - the research question that you want to answer, 
 - why this is an important question,
 - the state of the art,
-- and the methods that you want to use to answer your research question
+- the methods that you want to use to answer your research question,
+- and finally a minimal result and your anticipated results
 on a high level (1-2 pages).
 Furthermore, please include a timeline for your project with important milestones you will need to reach.
+The exposé should be formatted like a scientific paper (you can use one of the [IEEE two column templates](https://de.overleaf.com/org/ieee), for example) and a properly formatted bibliography.
 This helps to avoid communication problems and misunderstandings about your topic and will later on be a valuable resource to keep track of your progress and structure your thesis.
 
 ## Shared Folder
 When you start a thesis with me, please create a shared folder (preferably a Google Drive) that contains all files that we will be working on.
 This folder should be accessible to me and to you.
 Within this folder, there should be one master document named `<YOUR_NAME>_<YOUR_PROJECT_NAME>` that contains an index with an explanation on folder structure,
-your start and end dates, and a link to your research proposal, also placed in the shared folder.
+your start and end dates, and a link to your exposé, also placed in the shared folder.
 Also, there should be one `protocol` file that will be updated continuously by you and me and serves as ground of discussion in our meetings.
 
 ## Structuring of Meetings
