@@ -21,9 +21,10 @@ This exposé should summarize:
 - the state of the art,
 - the methods that you want to use to answer your research question,
 - and finally a minimal result and your anticipated results
+
 on a high level (1-2 pages).
 Furthermore, please include a timeline for your project with important milestones you will need to reach.
-The exposé should be formatted like a scientific paper (you can use one of the [IEEE two column templates](https://de.overleaf.com/org/ieee), for example) and a properly formatted bibliography.
+The exposé should be formatted like a scientific paper (you can use one the [IEEE two column conference template](https://de.overleaf.com/org/ieee), for example) and a properly formatted bibliography.
 This helps to avoid communication problems and misunderstandings about your topic and will later on be a valuable resource to keep track of your progress and structure your thesis.
 
 ## Shared Folder
@@ -36,8 +37,9 @@ Also, there should be one `protocol` file that will be updated continuously by y
 ## Structuring of Meetings
 For our meetings, please prepare:
 - Questions that you have the latest 1h before the meeting at the top of the protocol file
-- A short summary (can be screenshots, can be a document, can be a presentation) of your progress since the last meeting
+- A short written summary (can be a document, can be a presentation) of your progress since the last meeting
 - Relevant screenshots, plots, figures
+
 A clear and structured preparation will help us to make the most out of our meetings.
 This also helps you to keep track of your progress and to stay motivated -- use your weekly summaries to write your thesis.
 I highly recommend reading [this blog post about successful meetings](https://medium.com/@jurgens_24580/reflections-on-strategies-for-successful-meetings-with-undergraduate-researchers-ae22306ecd8d) to make the most out of our meetings.
@@ -50,7 +52,7 @@ For further information, I recommend reading:
 - The [Paper-writing tips by EPFL's dlab](https://dlab.epfl.ch/onboarding/paper-writing/)
 - The provided information from our student starter kit (see below)
 
-Write your thesis in LaTex, using templates from the [Student Starter Kit]((https://nextcloud.in.tum.de/index.php/s/rtF7dS7Eo684ag5).
+Write your thesis in LaTex, using templates from the [Student Starter Kit](https://nextcloud.in.tum.de/index.php/s/rtF7dS7Eo684ag5).
 I recommend overleaf, but the choice of editor is up to you and depends on personal preferences.
 When writing latex, here are some additional useful tips:
 - Use a new line for each sentence. This makes corrections and diffs way easier.
@@ -58,7 +60,7 @@ When writing latex, here are some additional useful tips:
 - Think about the content before you start working on the formulations.
 - One sentence should transmit one idea or message. It should never be possible to remove a sentence without deleting relevant information. 
 - It can help to structure your content with questions. Use latex comments to pose questions to yourself, then answer them in the text. This technique helps you generating an appealing structure for your reader.
-- If you find an especially good graphic, figure, or table, you can see whether the paper is on arXiv. It's a little known fact that you can download arXiv-paper sources directly and see how the papers were produced. On the top-right, just click on "Downloads --> other formats". For example, you will find that even [the most famous authors](https://arxiv.org/abs/1906.05243) use the question-answer technique for their writing when you check the comments in their source.
+- If you find an especially good graphic, figure, or table, you can see whether the paper is on arXiv. It's a little known fact that you can download arXiv-paper sources directly and see how the papers were produced. On the top-right, just click on "Downloads --> other formats". For example, you will find that even [esteemed authors](https://arxiv.org/abs/1906.05243) use the question-answer technique for their writing when you check the comments in their source.
 
 ## Presenting your Research
 Good research is only useful if others can understand it.
