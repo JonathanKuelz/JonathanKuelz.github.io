@@ -1,5 +1,5 @@
 ---
-title: WRITING A THESIS WITH ME
+title: Writing a thesis with me
 date: 2023-04-20
 categories: [research]
 tags: [students]
