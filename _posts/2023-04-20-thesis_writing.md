@@ -1,7 +1,7 @@
 ---
 title: WRITING A THESIS WITH ME
 date: 2023-04-20
-categories: [PhD]
+categories: [research]
 tags: [students]
 ---
 
@@ -32,7 +32,7 @@ When you start a thesis with me, please create a shared folder (preferably a Goo
 This folder should be accessible to me and to you.
 Within this folder, there should be one master document named `<YOUR_NAME>_<YOUR_PROJECT_NAME>` that contains an index with an explanation on folder structure,
 your start and end dates, and a link to your exposé, also placed in the shared folder.
-Also, there should be one `protocol` file that will be updated continuously by you and me and serves as ground of discussion in our meetings.
+Also, there should be one **protocol** file that will be updated continuously by you and me and serves as ground of discussion in our meetings.
 
 ## Structuring of Meetings
 For our meetings, please prepare:
