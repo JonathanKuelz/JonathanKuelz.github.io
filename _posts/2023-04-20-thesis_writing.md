@@ -24,7 +24,7 @@ This exposé should summarize:
 
 on a high level (1-2 pages).
 Furthermore, please include a timeline for your project with important milestones you will need to reach.
-The exposé should be formatted like a scientific paper (you can use one the [IEEE two column conference template](https://de.overleaf.com/org/ieee), for example) and a properly formatted bibliography.
+The exposé should be formatted like a scientific paper (you can use the template provided in [student starter kit](https://nextcloud.in.tum.de/index.php/s/rtF7dS7Eo684ag5)) and a properly formatted bibliography.
 This helps to avoid communication problems and misunderstandings about your topic and will later on be a valuable resource to keep track of your progress and structure your thesis.
 
 ## Shared Folder
