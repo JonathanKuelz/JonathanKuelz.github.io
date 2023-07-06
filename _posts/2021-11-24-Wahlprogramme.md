@@ -1,7 +1,7 @@
 ---
 title: Die Sprache der Wahlprogramme
 date: 2021-11-24
-categories: [hobby]
+categories: [research]
 tags: [politics]
 ---
 

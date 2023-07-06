@@ -13,15 +13,14 @@ It took a summer of training and a first trial in 2019 where I had to take a sho
 _Happy me arriving shortly before sunset at the finish in Andermatt_
 
 ## How the day went
-Together with Lars and my father, I slept in Zurich, which meant we had to get up around 4am to be in Andermatt before the brevet would start at 6am.
-Eating almost the entire drive, switching between Birchermüsli and Ovomalting, we constantly checked the weather forecast, which was rather unclear about what to expect.
+Together with [Lars](https://lars.carius.io/) and my father, I slept in Zurich, which meant we had to get up around 4am to be in Andermatt before the brevet would start at 6am.
+Eating almost the entire drive, we constantly checked the weather forecast, which was rather unclear about what to expect.
 Eventually, we came to the conclusion that it would probably rain, but not too much, and that we should be fine.
 
 ### Start
-At 6am sharp, the first group for the Platinum route - my goal - started.
-Knowing I would be one of the slower riders, I decided to not go with the first group.
-However, with the time limit in mind, I also didn't want to be too far behind, so I went with the second group at 6:10am.
-This ment the sun had yet to rise, and we descended the Gotthard in the dark.
+At 6am sharp, the first group for the Platinum route started.
+I didn't want to be too far behind, so I went with the second group at 6:10am.
+This meant the sun had yet to rise, and we descended the Gotthard in the dark.
 
 ![starting-the-brevet](/assets/img/alpenbrevet/start.jpg)
 _In the beginning there was darkness_
@@ -39,7 +38,7 @@ The last time I was on my old steel bike - so this time I felt like I was on rai
 
 ### Grimsel
 Next up was the Grimsel - a beatiful but long and steep road.
-I started careful, as it was windy down in the valley and I didn't want to lose to much energy that early on.
+It was windy down in the valley and I didn't want to lose to much energy that early on, so I started careful.
 On the first food stop, I picked up as many gels and bars as I could carry, hopped back on my bike, and started eating while driving.
 Even though it was only a bit more than 2h, the climb felt like an eternity, but eventually the sun came out, mood in the peloton was good, and I made it to the top.
 I was slower than in 2019, but still in time, and I loved the descent again!
@@ -48,9 +47,8 @@ I was slower than in 2019, but still in time, and I loved the descent again!
 _And down it goes! Uphill I was slow, but downhill was a blast_
 
 ### Nufenen
-Uff. The Nufenenpass was a tough one.
-It was the third time for me, and every single time, it killed me.
-I thought I was pretty good in shape. Down in the valley, I filled my bags with food, got my bottles filled, and started of well.
+The Nufenenpass and I will never become best friends.
+It was the third time I crossed it with my bicycle, and every single time, it killed me.
 I met the others half up the climb who came from the top as the gold tour was riding it the other way around.
 
 ![intermediate-meeting](/assets/img/alpenbrevet/nufenen.jpg)
@@ -91,9 +89,7 @@ _The last climb was accompanied by a rainbow_
 ### Andermatt
 After 13:43 on the road, I arrived in Andermatt.
 I was happy, but predominantly, I was tired.
-What a day! I was happy to have made it this time, and I was happy to be done.
-From here, Lars and I continued to Locarno while my father had already taken the train back home.
-While I was riding through the rain, they had long arrived at the finish line.
+While I was riding through the rain, the others had long arrived at the finish line.
 Some day, I will start again - until then, I will enjoy the memories of this day.
 
 ![gps](/assets/img/alpenbrevet/strava.jpg)

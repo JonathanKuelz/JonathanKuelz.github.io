@@ -1,7 +1,7 @@
 ---
-title: WRITING A THESIS WITH ME
+title: Writing a thesis with me
 date: 2023-04-20
-categories: [PhD]
+categories: [research]
 tags: [students]
 ---
 
@@ -13,28 +13,31 @@ My role as a supervisor is to support you, help you with your research, and guid
 Other than in a lecture, you have to at least partially define the scope of your project yourself.
 To help me understand your progress, I will ask you to prepare our meetings in a standardized way (see below).
 
-## Research Proposal
-Before we start working together, I would like you to write a research proposal.
+## Exposé
+Before we start working together, I would like you to write an exposé about your thesis.
 This proposal should summarize the following:
 - the research question that you want to answer, 
 - why this is an important question,
 - the state of the art,
-- and the methods that you want to use to answer your research question
+- the methods that you want to use to answer your research question,
+- and finally a minimal result and your anticipated results
 on a high level (1-2 pages).
+
 Furthermore, please include a timeline for your project with essential milestones you will need to reach.
+The exposé should be formatted like a scientific paper (you can use the template provided in [student starter kit](https://nextcloud.in.tum.de/index.php/s/rtF7dS7Eo684ag5)) and a properly formatted bibliography.
 This helps avoid communication problems and misunderstandings about your topic and will later be a valuable resource to keep track of your progress and structure your thesis.
 
 ## Shared Folder
 When you start a thesis with me, please create a shared folder (preferably a Google Drive) containing all files we will be working on.
 This folder should be accessible to me and to you.
 Within this folder, there should be one master document named `<YOUR_NAME>_<YOUR_PROJECT_NAME>` that contains an index with an explanation of folder structure,
-your start and end dates, and a link to your research proposal, also placed in the shared folder.
-Also, there should be one `protocol` file that you and I will update continuously, serving as the ground of discussion in our meetings.
+your start and end dates, and a link to your exposé, also placed in the shared folder.
+Also, there should be one **protocol** file that will be updated continuously by you and me and serves as ground of discussion in our meetings.
 
 ## Structuring of Meetings
 For our meetings, please prepare the following:
 - Questions that you have the latest 1h before the meeting at the top of the protocol file
-- A short summary (can be screenshots, can be a document, can be a presentation) of your progress since the last meeting
+- A short written summary (can be a document, can be a presentation) of your progress since the last meeting
 - Relevant screenshots, plots, figures
 A clear and structured preparation will help us make the most of our meetings.
 This also helps you to keep track of your progress and to stay motivated -- use your weekly summaries to write your thesis.
@@ -48,7 +51,7 @@ For further information, I recommend reading:
 - The [Paper-writing tips by EPFL's dlab](https://dlab.epfl.ch/onboarding/paper-writing/)
 - The provided information from our student starter kit (see below)
 
-Write your thesis in LaTex using templates from the [Student Starter Kit]((https://nextcloud.in.tum.de/index.php/s/rtF7dS7Eo684ag5).
+Write your thesis in LaTex, using templates from the [Student Starter Kit](https://nextcloud.in.tum.de/index.php/s/rtF7dS7Eo684ag5).
 I recommend overleaf, but the choice of editor is up to you and depends on personal preferences.
 When writing latex, here are some additional tips:
 - Use a new line for each sentence. This makes corrections and diffs way easier.
