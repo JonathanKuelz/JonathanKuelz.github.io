@@ -14,13 +14,13 @@ Affective polarization is an academic term for an emotionally driven diversion b
 And it's a problem:
 In recent years, even decades, citizens in the United States, but also in other Democracies all over the world, perceive an increase in affective polarization.
 
-I spent the last year of my Master's at the EPF Lausanne – a beautiful city – where I had the chance to write my Master's Thesis at Robert West's [DLAB](dlab.epfl.ch/).
+I spent the last year of my Master's at the EPF Lausanne – a beautiful city – where I had the chance to write my Master's Thesis at Robert West's [DLAB](https://dlab.epfl.ch/).
 For my thesis, I got my hands on [Quotebank](https://dl.acm.org/doi/10.1145/3437963.3441760), a massive dataset of quotations extracted from online news.
 It contains 127 million unique quotations, crawled from 196 million news articles spread over 15000 root domains.
 
 Together with [Andreas Spitz](https://scikon.uni-konstanz.de/personen/profile/andreas.spitz), who supervised me during my thesis, I spent roughly a year on the task of figuring out what you can do with a dataset like that.
 We quickly narrowed it down to a subset of US-based quotations – most news sources in the data are US-based, and colloquially speaking, it was still enough.
-Our efforts resulted in a simple finding: 
+Our efforts resulted in a simple finding:
 
 > United States politicians’ tone became more negative with 2016 primary campaigns
 
