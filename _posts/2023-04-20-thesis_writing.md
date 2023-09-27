@@ -28,8 +28,8 @@ The exposé should be formatted like a scientific paper (you can use the templat
 This helps avoid communication problems and misunderstandings about your topic and will later be a valuable resource to keep track of your progress and structure your thesis.
 
 ## Shared Folder
-When you start a thesis with me, please create a shared folder (preferably a Google Drive) containing all files we will be working on.
-This folder should be accessible to me and to you.
+When you start a thesis with me, I will create a shared Google Drive folder.
+It will be your job to keep this folder updated and include all relevant files we are working on in there.
 Within this folder, there should be one master document named `<YOUR_NAME>_<YOUR_PROJECT_NAME>` that contains an index with an explanation of folder structure,
 your start and end dates, and a link to your exposé, also placed in the shared folder.
 Also, there should be one **protocol** file that will be updated continuously by you and me and serves as ground of discussion in our meetings.
