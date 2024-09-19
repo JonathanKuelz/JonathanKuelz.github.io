@@ -15,6 +15,7 @@ A loose collection of tools I (recommend to) use on a daily basis:
 
 ### Misc
 - [How to write a (robotics) conference paper, Dmitry Berenson](https://docs.google.com/document/d/e/2PACX-1vTo8vC21SVC4wJNjMaJqG3KnvP-oMsjnOelpGEFakRJdKPkJV_I2bttENacrgxQ1_K8g5SLSHKKoIPe/pub)
+- [NotebookLM](https://notebooklm.google.com) - the podcast generation, but also the chat and briefing doc generation are amazing
 
 ### TUM students specifically
 - [Thesis guide](https://thesisguide.org/start-2/)
